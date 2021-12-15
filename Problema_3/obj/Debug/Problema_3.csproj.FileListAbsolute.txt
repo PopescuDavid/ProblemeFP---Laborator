@@ -1,0 +1,7 @@
+C:\Users\David\Desktop\Probleme_Balog\Problema_3\bin\Debug\Problema_3.exe.config
+C:\Users\David\Desktop\Probleme_Balog\Problema_3\bin\Debug\Problema_3.exe
+C:\Users\David\Desktop\Probleme_Balog\Problema_3\bin\Debug\Problema_3.pdb
+C:\Users\David\Desktop\Probleme_Balog\Problema_3\obj\Debug\Problema_3.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\Probleme_Balog\Problema_3\obj\Debug\Problema_3.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Probleme_Balog\Problema_3\obj\Debug\Problema_3.exe
+C:\Users\David\Desktop\Probleme_Balog\Problema_3\obj\Debug\Problema_3.pdb

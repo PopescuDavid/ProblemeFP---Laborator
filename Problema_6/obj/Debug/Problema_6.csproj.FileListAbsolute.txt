@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\Probleme_Balog\Problema_6\bin\Debug\Problema_6.exe.config
+C:\Users\David\Desktop\Probleme_Balog\Problema_6\bin\Debug\Problema_6.exe
+C:\Users\David\Desktop\Probleme_Balog\Problema_6\bin\Debug\Problema_6.pdb
+C:\Users\David\Desktop\Probleme_Balog\Problema_6\obj\Debug\Problema_6.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Probleme_Balog\Problema_6\obj\Debug\Problema_6.exe
+C:\Users\David\Desktop\Probleme_Balog\Problema_6\obj\Debug\Problema_6.pdb

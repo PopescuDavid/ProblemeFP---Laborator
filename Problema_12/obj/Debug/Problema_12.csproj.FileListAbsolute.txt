@@ -1,0 +1,12 @@
+C:\Users\David\Desktop\Probleme_Balog\Problema_12\obj\Debug\Problema_12.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Probleme_Balog\Problema_12\bin\Debug\Problema_12.exe.config
+C:\Users\David\Desktop\Probleme_Balog\Problema_12\bin\Debug\Problema_12.exe
+C:\Users\David\Desktop\Probleme_Balog\Problema_12\bin\Debug\Problema_12.pdb
+C:\Users\David\Desktop\Probleme_Balog\Problema_12\obj\Debug\Problema_12.exe
+C:\Users\David\Desktop\Probleme_Balog\Problema_12\obj\Debug\Problema_12.pdb
+C:\Users\David\Desktop\IMPORTANT THINGS\probleme balog\Problema_12\bin\Debug\Problema_12.exe.config
+C:\Users\David\Desktop\IMPORTANT THINGS\probleme balog\Problema_12\bin\Debug\Problema_12.exe
+C:\Users\David\Desktop\IMPORTANT THINGS\probleme balog\Problema_12\bin\Debug\Problema_12.pdb
+C:\Users\David\Desktop\IMPORTANT THINGS\probleme balog\Problema_12\obj\Debug\Problema_12.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\IMPORTANT THINGS\probleme balog\Problema_12\obj\Debug\Problema_12.exe
+C:\Users\David\Desktop\IMPORTANT THINGS\probleme balog\Problema_12\obj\Debug\Problema_12.pdb

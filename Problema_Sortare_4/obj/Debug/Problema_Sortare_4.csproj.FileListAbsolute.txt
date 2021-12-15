@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\IMPORTANT THINGS\probleme balog\Problema_Sortare_4\bin\Debug\Problema_Sortare_4.exe.config
+C:\Users\David\Desktop\IMPORTANT THINGS\probleme balog\Problema_Sortare_4\bin\Debug\Problema_Sortare_4.exe
+C:\Users\David\Desktop\IMPORTANT THINGS\probleme balog\Problema_Sortare_4\bin\Debug\Problema_Sortare_4.pdb
+C:\Users\David\Desktop\IMPORTANT THINGS\probleme balog\Problema_Sortare_4\obj\Debug\Problema_Sortare_4.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\IMPORTANT THINGS\probleme balog\Problema_Sortare_4\obj\Debug\Problema_Sortare_4.exe
+C:\Users\David\Desktop\IMPORTANT THINGS\probleme balog\Problema_Sortare_4\obj\Debug\Problema_Sortare_4.pdb

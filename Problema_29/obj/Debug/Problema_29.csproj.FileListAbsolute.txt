@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\IMPORTANT THINGS\probleme balog\Problema_29\bin\Debug\Problema_29.exe.config
+C:\Users\David\Desktop\IMPORTANT THINGS\probleme balog\Problema_29\bin\Debug\Problema_29.exe
+C:\Users\David\Desktop\IMPORTANT THINGS\probleme balog\Problema_29\bin\Debug\Problema_29.pdb
+C:\Users\David\Desktop\IMPORTANT THINGS\probleme balog\Problema_29\obj\Debug\Problema_29.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\IMPORTANT THINGS\probleme balog\Problema_29\obj\Debug\Problema_29.exe
+C:\Users\David\Desktop\IMPORTANT THINGS\probleme balog\Problema_29\obj\Debug\Problema_29.pdb
